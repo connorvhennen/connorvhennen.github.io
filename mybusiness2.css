@@ -1,0 +1,310 @@
+#headerSection {
+
+	width: 100%;
+	height: 100px;
+
+	padding-top: 20px;
+
+	background-image: url("condor.jpg");
+}
+
+#headerContent {
+
+	margin: 0 auto;
+	width: 100%;
+	height: 80%;
+
+  	top: 50%; 
+  	left: 50%;
+
+  	background-color: rgba(0, 68, 204, 0.5);
+
+}
+
+#bodyID
+{
+	background-color: LightSkyBlue;
+	width: 90%;
+	height: 100%;
+}
+#h2 {
+
+	
+	font-family: garamond;
+	color:  #FF9900;
+	font-size: 71.5px;
+	text-align: center;
+	vertical-align: middle;
+	line-height: 80px; 
+
+}
+
+.spacer {
+	border-color: blue;
+	width: 100%;
+	height: 50px;
+}
+
+#dropDown {
+
+	width: 950px;
+	height: 100px;
+	margin: 0;
+	padding: 0;
+
+}
+
+#bodyContent {
+	
+	margin: 0 auto;
+
+	width: 100%;
+	height: 700px;
+
+	border-style: solid;
+	
+
+	border-width: 1px;
+}
+
+#leftBar {
+
+	width: 22.2%;
+	height: 100%;
+
+	float: left;
+
+	background-color: #4863A0;
+
+
+}
+#mePic{
+	align = center; 
+	width = 22.2%;
+	float = left;
+}
+
+#mePara{
+	float: right;
+}
+#product {
+
+ 
+	width: 100%; 
+	border: 1px; 
+	table-layout: fixed;
+
+	border-style: solid;
+	border-color: white;
+	border-width: 1px;
+}
+
+#product td {
+	outline-color: blue;
+	border: 1px red;
+	color: #e6eeff;
+}
+
+#knowUs {
+	text-align: center;
+	color: #FF9900;
+	font-size: 20px;
+	font-family: verdana;
+	letter-spacing: 1px;
+}
+
+
+#order{
+	display: block; 
+	margin-left: auto; 
+	margin-right: auto; 
+	height: 80px; 
+	width: 500px; 
+	border-style: solid; 
+	border-width: 2px;
+}
+
+#orderText {
+	text-align: center;
+	text-decoration: underline;
+	border-color: yellow;
+}
+
+
+#footer {
+
+	margin: 0 auto;
+
+	width: 90.5%;
+	height: 30px;
+
+	background: red;
+}
+
+#copyr {
+
+	margin: 0 auto;
+	text-align: center;
+
+	font-size: 10px;
+	font-family: lucida;
+	color: black;
+}
+
+#bodyContent2
+{
+	border-top: thin;
+	
+	border-bottom: thick;
+	border-color: red;
+}
+
+#pic
+{
+	width: 50%;
+	height: 100%;
+	float: left;
+}
+
+#deals li
+{
+	font-family: Garamond;
+	font-size: 14px;
+	display: table; 
+	margin: 0 auto;
+	display: list-item;
+	list-style-position: inside;
+}
+#deals ol
+{
+	display: table;
+	font-size: 22px;
+	display: table; 
+	margin: 0 auto;
+	list-style: upper-roman;
+}
+
+
+ul
+{
+	
+    font-family: Arial, Verdana;
+    font-size: 14px;
+    margin: 0 auto;
+    padding: 0;
+
+}
+
+ul li
+{
+	list-style-type: none;
+	margin: 0 auto;
+    position: relative;
+    float: left;
+    
+ 
+}
+
+li ul
+{
+	
+    display: none;
+    text-decoration: underline;
+    font-style: italic;
+
+}
+
+
+ul li a 
+{
+	
+
+	width: 200px;
+    display: block;
+    text-decoration: none;
+    color: #ffffff;
+    border-top: 1px solid black;
+    padding: 5px 15px 5px 15px;
+    background: #2C5463;
+    
+    border-right: 1px solid black;
+    white-space: nowrap;
+}
+
+ul li a:hover 
+{
+
+	
+    background: #617F8A;
+    direction: ltr;
+    outline-color: blue;
+
+
+}
+li:hover ul 
+{
+
+	
+	outline-color: blue;
+    display: block;
+    position: absolute;
+
+}
+
+li:hover li
+{
+
+	
+	outline-color: blue;
+    float: none;
+    font-size: 14px;
+
+}
+
+li:hover a 
+{
+
+	
+	outline-color: blue;
+    background: #617F8A;
+    list-style-type: disc;
+}
+
+li:hover li a:hover 
+{
+
+	
+	outline-color: green;
+    background: black;
+    color: orange;
+    list-style-type: disc;
+    
+}
+
+#check 
+{
+	text-decoration: underline;
+	outline-color: blue;
+	color: yellow;
+}
+
+#logistics
+{
+	text-decoration: underline;
+	text-align: center;
+	color: 	#8B0000;
+}
+
+#name
+{
+	text-decoration: overline;
+	text-align: center;
+	color: 	#8B0000;
+}
+
+#condor
+{
+	font-style: italic;
+	font-family: courier;
+	color: 	#3CB371;
+}
