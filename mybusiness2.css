@@ -10,16 +10,14 @@
 #customerReviewPic {
     border: 0px solid black;
     padding: 0px;
-    background: url("condors.jpg");
-    background-repeat: no-repeat;
+    background-image: url("condors.jpg");
     background-size: 100% 60%;
 }
 
 #customerReviewPic2 {
-    border: 10px solid black;
+    border: 0px solid black;
     padding: 0px;
-    background: url("e.jpg");
-    background-repeat: no-repeat;
+    background-image: url("e.jpg");
     background-size: 100% 40%;
 }
 
