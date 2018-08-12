@@ -10,7 +10,12 @@
 		<link rel="stylesheet" type="text/css" href="mybusiness.css"/>
 		
 		<title>Condor Flight Co</title>
-
+	<script type="text/javascript">
+		function thanks(){
+			alert("The condors thank you for your business!");
+			location.assign("https://www.connorvhennen.com");
+		}
+	</script>
 	</head>
 
 	<body id = "bodyID">
@@ -136,7 +141,7 @@
 
 			<fieldset>
 				<legend id = "condor">Let the condors take flight:</legend>
-				<button type = "submit">Submit</button>
+				<input onclick = "thanks()" type="button" value="Submit" class="link_button"/>
 				<button type = "reset">Clear</button>
 			</fieldset>
 		</form>		
