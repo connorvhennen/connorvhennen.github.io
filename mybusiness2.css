@@ -7,6 +7,21 @@
 
 	background-image: url("condor.jpg");
 }
+#customerReviewPic {
+    border: 0px solid black;
+    padding: 0px;
+    background: url(assets/condor.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 60%;
+}
+
+#customerReviewPic2 {
+    border: 10px solid black;
+    padding: 0px;
+    background: url(assets/e.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 60%;
+}
 
 #headerContent {
 
