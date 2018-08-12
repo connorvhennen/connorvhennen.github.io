@@ -7,17 +7,19 @@ html{
   height: 100%;
   text-align: left;
 }
-
+/*
 #customerReviewPic {
   height: 100%;
   background-image: url("condors.jpg");
   background-position: center top;
   background-repeat: no-repeat;
 }
+*/
 
 #customerReviewPic2 {
   height: 100%;
   background-image: url("falcon.jpg");
-  background-position: center bottom;
+  background-position: center;
   background-repeat: no-repeat;
+  background-size: cover;
 }
