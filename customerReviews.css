@@ -6,6 +6,10 @@
 #reviewBody {
   height: 100%;
   text-align: left;
+  background-image: url("falcon3.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
 }
 
 #moneyhtml {
@@ -20,7 +24,7 @@
   background-repeat: no-repeat;
 }
 */
-
+/*
 #customerReviewPic2 {
   height: 100%;
   background-image: url("falcon3.jpg");
@@ -28,3 +32,4 @@
   background-repeat: no-repeat;
   background-size: contain;
 }
+*/
