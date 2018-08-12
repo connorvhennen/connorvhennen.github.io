@@ -1,4 +1,4 @@
-html{
+#reviewhtml {
   height: 100%;
   margin: 0;
   background-color: LightSkyBlue;
@@ -9,11 +9,10 @@ html{
   text-align: left;
 }
 
-#money {
+#moneyhtml {
   height: 100%;
   background-color: #85bb65;
 }
-
 /*
 #customerReviewPic {
   height: 100%;
