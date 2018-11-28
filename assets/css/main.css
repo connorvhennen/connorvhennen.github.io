@@ -3816,3 +3816,11 @@
     background-color: red; 
 	display: none;
 	span:hover + div { display: block; } }
+
+.info {
+   opacity: 0;
+}
+
+.info:hover {
+    opacity: 1;
+}
